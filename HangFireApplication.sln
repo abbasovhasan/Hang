@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HangFireApplication", "HangFireApplication\HangFireApplication.csproj", "{0A21861F-8B22-479B-BBB1-B380B9684CC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{C559E81B-11FC-4196-A132-2B3EE9C29353}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A21861F-8B22-479B-BBB1-B380B9684CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A21861F-8B22-479B-BBB1-B380B9684CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A21861F-8B22-479B-BBB1-B380B9684CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A21861F-8B22-479B-BBB1-B380B9684CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C559E81B-11FC-4196-A132-2B3EE9C29353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C559E81B-11FC-4196-A132-2B3EE9C29353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C559E81B-11FC-4196-A132-2B3EE9C29353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C559E81B-11FC-4196-A132-2B3EE9C29353}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0194B8DA-0E65-4C4B-B8E4-670EEFA6952F}
+	EndGlobalSection
+EndGlobal
